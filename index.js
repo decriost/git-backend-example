@@ -1,7 +1,7 @@
 const users = [
   'Todos',
   'Alan Boglioli',
-  'Fulanit de Tal',
+  'Fulanito de Tal',
 ];
 
 function showUsers(users) {
